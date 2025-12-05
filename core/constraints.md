@@ -50,6 +50,8 @@ The constraints below are derived from the following necessary conditions:
 **Definition**: The necessary external termination point for justification.
 **Function**: Prevents infinite regress. A system cannot validate its own axioms using only those axioms; it must "hang" on a reality outside itself. The Anchor is the structural name for that attachment point.
 
+**Structural Role**: The Anchor is not an eighth constraint. It is the structural role that **C5 (Objective Reality)** plays when a system requires external grounding to satisfy C6 and C7.
+
 ---
 
 ## Constraint Interaction
