@@ -31,11 +31,7 @@ Start with:
 
 **core/initialization.md**
 
-Follow the prompts exactly, one step at a time, in a live session with a reasoning system.
-
-Do not skip steps.
-Do not treat the text as descriptive.
-The structure only holds when derived in real time.
+Follow the prompts, one step at a time, in a live session with a reasoning system.
 
 Once initialized, the system can be used to explore any question under the same constraints.
   
