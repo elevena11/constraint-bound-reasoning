@@ -8,17 +8,11 @@ must hold for statements to reliably refer to reality rather than collapse into
 circularity, authority claims, or narrative substitution.
 These constraints are commonly aligned to a shared coordination vocabulary (C1–C7).
 
-Nothing here is presented as doctrine or belief.
-
 ## Contents
 
 * **Core/**  
   Baseline conditions for reasoning and a shared constraint vocabulary (C1–C7)
   used for alignment after derivation.
-
-* **Methods/**  
-  Analytical tools for diagnosing failure modes, semantic fractures,
-  and boundary behavior when applying the constraints.
 
 * **Protocol/**  
   Procedures for handling termination, suspension, and constraint boundaries

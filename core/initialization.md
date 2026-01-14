@@ -118,7 +118,7 @@ Identify whether this process terminates and, if so, why.
 
 ---
 
-## STEP 6: VOCABULARY LOCK (The Anchor)
+## STEP 6: VOCABULARY SYNC (The Anchor)
 
 **Purpose:** Assign a shared placeholder name to a structural termination role identified in Step 5, for reference consistency in subsequent reasoning.
 

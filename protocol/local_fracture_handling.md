@@ -1,3 +1,6 @@
+Note on scope:
+This document provides a human-readable overview of how semantic fractures may be identified and handled in practice. It is not a required procedure. The framework constrains that fractures must be detectable; how they are handled is intentionally left to the local reasoning process.
+
 # Local Fracture Handling — Layer Separation Protocol
 
 ## Purpose of This Document
