@@ -10,13 +10,15 @@ These constraints are commonly aligned to a shared coordination vocabulary (C1�
 
 ## Contents
 
-* **Core/**  
-  Baseline conditions for reasoning and a shared constraint vocabulary (C1–C7)
-  used for alignment after derivation.
+* **core/**
+  Protocol for independent derivation of reasoning constraints, followed by
+  alignment to a shared vocabulary (C1–C7).
 
-* **Protocol/**  
-  Procedures for handling termination, suspension, and constraint boundaries
-  without importing external authority or explanation.
+* **llm-package/**
+  LLM-optimized structured materials for constraint derivation and application.
+
+* **texts/**
+  Human-readable essays on termination, embedding, convergence, and LLM behavior.
 
 ## How to use this
 
